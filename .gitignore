@@ -1,1 +1,13 @@
 /.idea
+
+
+
+
+
+
+- maakt veranderingen
+- git status
+- git add .
+- zit er per ongeluk toch nog .idea tussen? git rm -3 --cached .idea
+- git status
+- git commit -m "Leuk bericht"
